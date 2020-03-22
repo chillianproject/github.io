@@ -1,8 +1,10 @@
 # Chillian Project
 This is the landing page for the Chillian Project. 
 
+![Build and Deploy](https://github.com/chillianproject/chillianproject.github.io/workflows/Build%20and%20Deploy/badge.svg)
+
 # Tech Stack
-This uses [Vue JS](https://vuejs.org) as the front end framework, and [Google Sheets API](https://developers.google.com/sheets/api/) for the backend 'database'
+This uses [Vue JS](https://vuejs.org)
 
 # Prerequisites
 This requires Node JS 9 or above, and NPM 6.6
