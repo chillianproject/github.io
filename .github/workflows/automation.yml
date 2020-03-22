@@ -1,7 +1,7 @@
 name: Run Build and Test Automation
 on: [push]
 jobs:
-  build-and-deploy:
+  build-and-test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
