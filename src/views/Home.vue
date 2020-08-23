@@ -15,13 +15,6 @@ export default {
 </script>
 
 <style>
-@font-face {
-  font-family: "Arima-Thin";
-  src: url("../assets/fonts/ArimaMadurai-Thin.ttf");
-}
-* {
-  font-family: Arima-Thin;
-}
 img {
   width: 100%;
 }
